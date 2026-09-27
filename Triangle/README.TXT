@@ -4,9 +4,9 @@ Tell the reader (someone who does not know anything about this project)
 all they need to know. The comments should usually include at least:
 ------------------------------------------------------------------------
 
-PROJECT TITLE:
+PROJECT TITLE: Triangle
 PURPOSE OF PROJECT:
-VERSION or DATE:
+VERSION or DATE: 9/26/2026
 HOW TO START THIS PROJECT:
-AUTHORS:
+AUTHORS: Shourya Bodkhe
 USER INSTRUCTIONS:
